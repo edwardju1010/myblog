@@ -84,3 +84,8 @@ a, body{
 .article > * {
   margin: 10px 0;
 }
+
+#menu-checkbox,
+#menu-toggle {
+  display: none;
+}
